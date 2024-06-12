@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\EventAPI.csproj": {}
+    "C:\\Users\\samwa\\Documents\\GitHub\\EventAPI\\EventAPI\\EventAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\EventAPI.csproj": {
+    "C:\\Users\\samwa\\Documents\\GitHub\\EventAPI\\EventAPI\\EventAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\EventAPI.csproj",
+        "projectUniqueName": "C:\\Users\\samwa\\Documents\\GitHub\\EventAPI\\EventAPI\\EventAPI.csproj",
         "projectName": "EventAPI",
-        "projectPath": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\EventAPI.csproj",
+        "projectPath": "C:\\Users\\samwa\\Documents\\GitHub\\EventAPI\\EventAPI\\EventAPI.csproj",
         "packagesPath": "C:\\Users\\samwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\obj\\",
+        "outputPath": "C:\\Users\\samwa\\Documents\\GitHub\\EventAPI\\EventAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
