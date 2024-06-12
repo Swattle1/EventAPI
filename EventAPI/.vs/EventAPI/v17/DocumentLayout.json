@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\data\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:data\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\dto\\venuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:dto\\venuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|c:\\users\\samwa\\documents\\github\\events-manager-technical-test\\eventapi\\dto\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568DDD13-E862-4584-A4CE-F64F2D241BF1}|EventAPI.csproj|solutionrelative:dto\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:58:29.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:21:40.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "Controllers\\ArtistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:24:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:25:45.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:58:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Models\\Artist.cs",
+              "RelativeToolTip": "Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:36:12.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:28:20.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Data\\EventDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventDBContext.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\Data\\EventDBContext.cs",
+              "RelativeToolTip": "Data\\EventDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:35:03.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VenueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\DTO\\VenueDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\VenueDTO.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\DTO\\VenueDTO.cs",
+              "RelativeToolTip": "DTO\\VenueDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:13:12.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\DTO\\EventDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EventDTO.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\DTO\\EventDTO.cs",
+              "RelativeToolTip": "DTO\\EventDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:14:59.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArtistDTO.cs",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\DTO\\ArtistDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ArtistDTO.cs",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Events-Manager-Technical-Test\\EventAPI\\DTO\\ArtistDTO.cs",
+              "RelativeToolTip": "DTO\\ArtistDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:12:30.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
